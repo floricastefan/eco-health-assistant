@@ -1,0 +1,7 @@
+# Securitate
+.env
+
+# Fisiere de sistem Python
+__pycache__/
+.venv/
+venv/
