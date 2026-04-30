@@ -1,6 +1,8 @@
 # 🌱 Eco-Health Assistant
 
-A specialized AI personal assistant expert in nutrition, fitness, and healthy lifestyle, built with Python and Streamlit.
+A specialized AI personal assistant expert in nutrition, fitness, and healthy lifestyle, built with Python and Streamlit
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eco-health-assistant.streamlit.app/)
 
 ## 🚀 Key Features
 * **Expanded Expertise:** Provides expert advice on nutrition, workout routines (gym), physical recovery, and sleep optimization.
